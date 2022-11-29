@@ -1,6 +1,6 @@
 # Oyun
 ---
-Bir köprü oluşturun, karşı platforma geçin ve yıldıza ulaşın.
+Bir köprü oluşturun, karşı platforma geçin ve yıldıza ulaşın. [Oyunu oynamak buraya tıklayınız.](https://simmer.io/@edadural/biricik-bridge)
 
 ![](https://github.com/edadural/Game/blob/main/img/bb5.png)
 
@@ -80,4 +80,4 @@ Oyunu tekrardan başlatmak için yazdığımız kod
 - Rumeysa Emine Şahin
 - Eda Dural
 
-
+---
